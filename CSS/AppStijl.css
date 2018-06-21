@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   padding-top: 5rem;
 }
@@ -6,3 +7,13 @@ body {
   text-align: center;
 }
 
+=======
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+>>>>>>> e354c66f36dce7d258e17d23e233debbf76aa25a
